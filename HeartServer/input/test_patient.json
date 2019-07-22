@@ -1,0 +1,16 @@
+{
+    "patient_id": "z23rtb",
+    "slope_of_peak_exercise_st_segment": 2,
+    "thal": "reversible_defect",
+    "resting_blood_pressure": 155,
+    "chest_pain_type": 4,
+    "num_major_vessels": 1,
+    "fasting_blood_sugat_gt_120_mg_per_dl": 0,
+    "resting_ekg_results": 2,
+    "serum_cholesterol_mg_per_dl": 177,
+    "oldpeak_eq_st_depression": 0.6,
+    "sex": 1,
+    "age": 55,
+    "max_heart_reate_achieved": 165,
+    "exercise_induced_angina": 0
+}
